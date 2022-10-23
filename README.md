@@ -19,7 +19,7 @@ Step 4:
 End the program
 
 ## Program :
-Developed by: your name:sarvesh.s
+Developed by:sarvesh.s
 
 RegisterNumber: 22003029
 
