@@ -19,6 +19,9 @@ Step 4:
 End the program
 
 ## Program :
+Developed by: your name:sarvesh.s
+RegisterNumber: 22003029
+
 ```
 import numpy as np
 a = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
